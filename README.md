@@ -2,7 +2,7 @@
 [![GitHub license](https://img.shields.io/github/license/khulnasoft-lab/FlowMeter)](https://github.com/khulnasoft-lab/FlowMeter/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/khulnasoft-lab/FlowMeter)](https://github.com/khulnasoft-lab/FlowMeter/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/khulnasoft-lab/FlowMeter)](https://github.com/khulnasoft-lab/FlowMeter/issues)
-[![Slack](https://img.shields.io/badge/slack-@deepfence-blue.svg?logo=slack)](https://join.slack.com/t/khulnasoft/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ)
+[![Slack](https://img.shields.io/badge/slack-@khulnasoft-blue.svg?logo=slack)](https://join.slack.com/t/khulnasoft/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ)
 
 # FlowMeter
 FlowMeter is an experimental utility built for analysing and classifing packets by looking at packet headers. 
@@ -43,14 +43,14 @@ For full instructions, refer to the [FlowMeter Documentation](https://docs.khuln
 Thank you for using FlowMeter.
 
  * [<img src="https://img.shields.io/badge/documentation-read-green">](https://docs.khulnasoft.com/flowmeter) Start with the documentation
- * [<img src="https://img.shields.io/badge/slack-@deepfence-blue.svg?logo=slack">](https://join.slack.com/t/khulnasoft/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ) Got a question, need some help?  Find the Khulnasoft team on Slack
+ * [<img src="https://img.shields.io/badge/slack-@khulnasoft-blue.svg?logo=slack">](https://join.slack.com/t/khulnasoft/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ) Got a question, need some help?  Find the Khulnasoft team on Slack
  * [![GitHub issues](https://img.shields.io/github/issues/khulnasoft-lab/FlowMeter)](https://github.com/khulnasoft-lab/FlowMeter/issues) Got a feature request or found a bug? Raise an issue
- * [productsecurity *at* deepfence *dot* io](SECURITY.md): Found a security issue? Share it in confidence
+ * [productsecurity *at* khulnasoft *dot* com](SECURITY.md): Found a security issue? Share it in confidence
  * Find out more at [khulnasoft.com](https://khulnasoft.com/)
 
 ## Security and Support
 
-For any security-related issues in the FlowMeter project, contact [productsecurity *at* deepfence *dot* io](SECURITY.md).
+For any security-related issues in the FlowMeter project, contact [productsecurity *at* khulnasoft *dot* com](SECURITY.md).
 
 Please file GitHub issues as needed, and join the Khulnasoft Community [Slack channel](https://join.slack.com/t/khulnasoft/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ).
 
